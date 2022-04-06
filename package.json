@@ -24,7 +24,8 @@
     "jsdom": "9.2.1",
     "mocha": "5.2.0",
     "mocha-jsdom": "~1.1.0",
-    "mocha-multi": "1.0.1"
+    "mocha-multi": "1.0.1",
+    "underscore": "1.13.2"
   },
   "dependencies": {
     "sinon": "^7.3.2",
